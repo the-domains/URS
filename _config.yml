@@ -2,6 +2,7 @@ name: Urban Rider Society
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.10126
+title: URS
 cta:
   domain: null
   bucket: null
