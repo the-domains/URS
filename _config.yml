@@ -24,6 +24,6 @@ color:
     - '#67696a'
   brandStrength: 1
   lightness: 0.375
-  saturation: 0.5
-  rhythmicContrast: 0.9175962628796697
+  saturation: 1
+  rhythmicContrast: 0
 purpose: []
