@@ -1,0 +1,28 @@
+name: Urban Rider Society
+favicon: null
+layout_spectrum: 0.8921107393689454
+typography_spectrum: 0.44942045770585537
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.625
+  lightness: 0.375
+  saturation: 0.5625
+  rhythmicContrast: 0.9175962628796697
+purpose: []
